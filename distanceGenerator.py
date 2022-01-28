@@ -74,7 +74,7 @@ if __name__ == '__main__':
 
 
     # Wektor ee - odległości userów od poszczególnych serwerów w chwili T1
-    # Odległość zmienia się randomowo o (-2,2) w którąś ze stron (olałam to, że użytkownik może wyjść poza mapę xd)
+    # Odległość zmienia się randomowo o (-2,2) w którąś ze stron
     # wiersze - serwery, kolumny użytkownicy
     ee = copy.deepcopy(e)
 
@@ -93,7 +93,7 @@ if __name__ == '__main__':
     #print(ee[9][19])
 
     # Wektor eee - odległości userów od poszczególnych serwerów w chwili T1
-    # Odległość zmienia się randomowo o (-2,2) w którąś ze stron (olałam to, że użytkownik może wyjść poza mapę xd)
+    # Odległość zmienia się randomowo o (-2,2) w którąś ze stron
     # wiersze - serwery, kolumny użytkownicy
     eee = copy.deepcopy(ee)
 
